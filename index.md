@@ -9,7 +9,7 @@ This is the homepage for NTNU's LRA lab
 
 <!-- Full-width image -->
 <div style="width: 100%; text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/lra-logo_shadow.png" alt="NTNU LRA Logo" style="width: 100%; max-width: 100%;">
+  <img src="{{ site.baseurl }}/assets/images/lra-logo2.png" alt="NTNU LRA Logo" style="width: 100%; max-width: 100%;">
 </div>
 
 ## Navigation
