@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            NTNU Legged Robots for the Arctic and beyond lab
+tagline:          'A Jekyll theme'
+description:      "NTNU LRA official website"
+url:              https://ntnu-lra.github.io
+baseurl:          /
+
+author:
+  name:           'Kostas Alexis'
+  url:            github.com/kostas-alexis
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/ntnu-lra/ntnu-lra
