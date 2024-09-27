@@ -7,6 +7,8 @@ title: "Home"
   <img src="{{ site.baseurl }}/assets/images/lra-logo2.png" alt="NTNU LRA Logo" style="width: 100%; max-width: 100%;">
 </div>
 
+Welcome to the Legged Robots for the Arctic & beyond lab! We are a group of researchers and students at NTNU kickstarting our activities in legged robots for extreme environments and tasks. 
+
 ## Navigation
 - [Team](team/)
 - [Robots](robots/)
