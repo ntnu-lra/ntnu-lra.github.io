@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            NTNU Legged Robots for the Arctic and beyond lab
+title:            NTNU LRA
 tagline:          'A Jekyll theme'
-description:      "NTNU LRA official website"
+description:      "Legged Robots for the Arctic and beyond lab"
 url:              https://ntnu-lra.github.io
 baseurl:          /
 
