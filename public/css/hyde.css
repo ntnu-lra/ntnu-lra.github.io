@@ -126,6 +126,7 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
+/* original
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
@@ -140,7 +141,25 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
+*/  
 
+/* modified */ 
+
+@media (min-width: 48em) {
+  .content {
+    max-width: 60rem; /* Increase the maximum width of the content */
+    margin-left: 20rem; /* Keep space for the sidebar */
+    margin-right: 2rem; /* Adjust right margin */
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 20rem; /* Adjust as necessary to leave space for the sidebar */
+    margin-right: 2rem; /* Reduce right margin to increase content width */
+    max-width: 70rem; /* Further increase the max width of content */
+  }
+}
 
 /*
  * Reverse layout
