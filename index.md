@@ -11,6 +11,7 @@ This is the homepage for NTNU's LRA lab
 - [Team](team/)
 - [Robots](robots/)
 - [Results](results/)
+- [Publications](publications/)
 
 
 {% for post in paginator.posts %}
