@@ -18,9 +18,18 @@ author:
 
 paginate:         5
 
+# Disable GitHub project link
+github_project: false
+
+# Remove version display
+version: false
+
+# Remove download link
+download_link: false
+
 # Navigation for the sidebar
 header_pages:
   - index.md         # Home page
-  - team/index.md    # Team page in the 'team' folder
-  - robots/index.md  # Robots page in the 'robots' folder
-  - results/index.md # Results page in the 'results' folder
+  - team/team.md    # Team page in the 'team' folder
+  - robots/robots.md  # Robots page in the 'robots' folder
+  - results/results.md # Results page in the 'results' folder
