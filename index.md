@@ -2,11 +2,6 @@
 layout: default
 title: "Home"
 ---
-
-# Legged Robots for the Arctic & beyond lab
-
-This is the homepage for NTNU's LRA lab
-
 <!-- Full-width image -->
 <div style="width: 50%; text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/lra-logo2.png" alt="NTNU LRA Logo" style="width: 100%; max-width: 100%;">
