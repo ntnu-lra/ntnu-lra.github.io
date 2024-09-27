@@ -11,13 +11,7 @@ Welcome to the Legged Robots for the Arctic & beyond lab! We are a group of rese
 
 <img src="{{ site.baseurl }}/assets/images/olympus_views.png" alt="Views of Olympus" style="width: 80%; max-width: 800px;">
 
-
-## Navigation
-- [Team](team/)
-- [Robots](robots/)
-- [Results](results/)
-- [Publications](publications/)
-- [Open-source](open-source/)
+Our current activities relate to jumping quadrupeds, their design optimization, jumping policies and in-flight attitude stabilization to prepare safe landing. Future activities shall also include interacting with icy terrain and snow. 
 
 
 {% for post in paginator.posts %}
