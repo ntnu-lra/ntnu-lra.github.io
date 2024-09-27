@@ -7,19 +7,20 @@ permalink:        pretty
 
 # Setup
 title:            NTNU LRA
-tagline:          'A Jekyll theme'
+tagline:          'Legged Robots for the Arctic and Beyond Lab'
 description:      "Legged Robots for the Arctic and beyond lab"
 url:              https://ntnu-lra.github.io
 baseurl:          /
 
 author:
   name:           'Kostas Alexis'
-  url:            github.com/kostas-alexis
+  url:            https://github.com/kostas-alexis
 
 paginate:         5
 
+# Navigation for the sidebar
 header_pages:
-  - index.md
-  - team/index.md
-  - robots/index.md
-  - results/index.md
+  - index.md         # Home page
+  - team/index.md    # Team page in the 'team' folder
+  - robots/index.md  # Robots page in the 'robots' folder
+  - results/index.md # Results page in the 'results' folder
