@@ -9,7 +9,7 @@ title: "Home"
 
 Welcome to the Legged Robots for the Arctic & beyond lab! We are a group of researchers and students at NTNU kickstarting our activities in legged robots for extreme environments and tasks. 
 
-<img src="{{ site.baseurl }}/assets/olympus_views.png" alt="Description of Image" style="width: 80%; max-width: 800px;">
+<img src="{{ site.baseurl }}/assets/images/olympus_views.png" alt="Views of Olympus" style="width: 80%; max-width: 800px;">
 
 
 ## Navigation
