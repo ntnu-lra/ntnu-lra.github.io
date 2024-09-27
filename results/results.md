@@ -4,8 +4,6 @@ title: "Results"
 permalink: /results
 ---
 
-# Our Results
-
 Our results are cool.
 
 
