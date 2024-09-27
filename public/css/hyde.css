@@ -167,6 +167,7 @@ a.sidebar-nav-item:focus {
  * Flip the orientation of the page by placing the `.sidebar` on the right.
  */
 
+ /* original
 @media (min-width: 48em) {
   .layout-reverse .sidebar {
     left: auto;
@@ -184,6 +185,29 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
+  */
+
+/* modified */
+@media (min-width: 48em) {
+  .layout-reverse .sidebar {
+    left: auto;
+    right: 0;
+  }
+  .layout-reverse .content {
+    margin-left: 10rem; /* Adjust the margin-left for content */
+    margin-right: 10rem; /* Adjust the margin-right for content */
+    max-width: 60rem; /* Set a max width for content */
+  }
+}
+
+@media (min-width: 64em) {
+  .layout-reverse .content {
+    margin-left: 12rem; /* Adjust margins for larger screens */
+    margin-right: 12rem;
+    max-width: 70rem; /* Set a larger max width for larger screens */
+  }
+}
+
 
 
 
