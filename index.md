@@ -7,6 +7,11 @@ title: "Home"
 
 This is the homepage for NTNU's LRA lab
 
+<!-- Full-width image -->
+<div style="width: 100%; text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/lra-logo_shadow.png" alt="NTNU LRA Logo" style="width: 100%; max-width: 100%;">
+</div>
+
 ## Navigation
 - [Team](team/)
 - [Robots](robots/)
