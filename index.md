@@ -7,6 +7,12 @@ title: "Home"
 
 This is the homepage for NTNU's LRA lab
 
+## Navigation
+- [Team](team/)
+- [Robots](robots/)
+- [Results](results/)
+
+
 {% for post in paginator.posts %}
   ## {{ post.title }}
   *{{ post.date | date_to_string }}*

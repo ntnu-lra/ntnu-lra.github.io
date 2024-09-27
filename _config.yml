@@ -18,8 +18,8 @@ author:
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/ntnu-lra/ntnu-lra
+header_pages:
+  - index.md
+  - team/index.md
+  - robots/index.md
+  - results/index.md
