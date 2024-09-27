@@ -8,7 +8,7 @@ title: "Home"
 This is the homepage for NTNU's LRA lab
 
 <!-- Full-width image -->
-<div style="width: 100%; text-align: center;">
+<div style="width: 50%; text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/lra-logo2.png" alt="NTNU LRA Logo" style="width: 100%; max-width: 100%;">
 </div>
 
@@ -17,6 +17,7 @@ This is the homepage for NTNU's LRA lab
 - [Robots](robots/)
 - [Results](results/)
 - [Publications](publications/)
+- [Open-source](open-source/)
 
 
 {% for post in paginator.posts %}
