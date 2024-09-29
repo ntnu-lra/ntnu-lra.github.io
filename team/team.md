@@ -16,4 +16,18 @@ Our team involves the following members:
 * [Finn Gross Mauer](https://www.ntnu.no/ansatte/finn.g.maurer)
 
 ## Students
-To be listed soon. 
+
+### 2024-2025
+* Johannes Ihle
+* Daniel Rosmæl Skauge
+
+### Previous students (through [ARL](https://www.autonomousrobotslab.com/))
+* Tarek El-Agroudi
+* Finn Gross Mauer
+* Andreas Westre
+* Kristian Novsett Borgen
+
+
+## Visitors
+* Michalis Papadakis
+* Tejal Barnwal
