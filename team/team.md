@@ -17,11 +17,11 @@ Our team involves the following members:
 
 ## Students
 
-### 2024-2025
+#### 2024-2025
 * Johannes Ihle
 * Daniel Rosmæl Skauge
 
-### Previous students (through [ARL](https://www.autonomousrobotslab.com/))
+#### Previous students (through [ARL](https://www.autonomousrobotslab.com/))
 * Tarek El-Agroudi
 * Finn Gross Mauer
 * Andreas Westre
