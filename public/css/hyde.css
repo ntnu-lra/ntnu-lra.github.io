@@ -55,9 +55,9 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1rem 0rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  background-color: #1d5092;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -122,10 +122,11 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    1rem;
+  padding-bottom: 1rem;
 }
 
+/* original
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
@@ -140,7 +141,25 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
+*/  
 
+/* modified */ 
+
+@media (min-width: 48em) {
+  .content {
+    max-width: 60rem; /* Increase the maximum width of the content */
+    margin-left: 20rem; /* Keep space for the sidebar */
+    margin-right: 2rem; /* Adjust right margin */
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 20rem; /* Adjust as necessary to leave space for the sidebar */
+    margin-right: 2rem; /* Reduce right margin to increase content width */
+    max-width: 70rem; /* Further increase the max width of content */
+  }
+}
 
 /*
  * Reverse layout
@@ -148,6 +167,7 @@ a.sidebar-nav-item:focus {
  * Flip the orientation of the page by placing the `.sidebar` on the right.
  */
 
+ /* original
 @media (min-width: 48em) {
   .layout-reverse .sidebar {
     left: auto;
@@ -165,6 +185,29 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
+  */
+
+/* modified */
+@media (min-width: 48em) {
+  .layout-reverse .sidebar {
+    left: auto;
+    right: 0;
+  }
+  .layout-reverse .content {
+    margin-left: 10rem; /* Adjust the margin-left for content */
+    margin-right: 10rem; /* Adjust the margin-right for content */
+    max-width: 60rem; /* Set a max width for content */
+  }
+}
+
+@media (min-width: 64em) {
+  .layout-reverse .content {
+    margin-left: 12rem; /* Adjust margins for larger screens */
+    margin-right: 12rem;
+    max-width: 70rem; /* Set a larger max width for larger screens */
+  }
+}
+
 
 
 

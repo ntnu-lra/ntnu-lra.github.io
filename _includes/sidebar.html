@@ -1,22 +1,25 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container sidebar-sticky" style="padding-top: 0 !important;">
 
-    <!-- Add the logo at the top of the sidebar -->
-    <div style="text-align: center; margin-bottom: 20px;">
-      <img src="{{ site.baseurl }}/assets/images/lra-logo2.png" alt="NTNU LRA Logo" style="width: 80%; max-width: 200px;">
+    <!-- Add the logo at the very top of the sidebar -->
+    <div style="text-align: center; margin: 0 !important; padding: 0 !important;">
+      <img src="{{ site.baseurl }}/assets/images/lra-logo2.png" alt="NTNU LRA Logo" style="width: 80%; max-width: 200px; margin-top: 0 !important; padding-top: 0 !important;">
     </div>
 
     <div class="sidebar-about">
-      <h1>
+      <!--<h1>
         <a href="{{ site.baseurl }}">
           {{ site.title }}
         </a>
-      </h1>
+      </h1>-->
       <p class="lead">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+      <!--<a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>-->
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}">Home</a>
+
+
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
