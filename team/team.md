@@ -21,9 +21,10 @@ Our team involves the following members:
 * Johannes Ihle
 * Daniel Rosmæl Skauge
 
-#### Previous students (through [ARL](https://www.autonomousrobotslab.com/))
+#### Previous students
 * Tarek El-Agroudi
 * Finn Gross Mauer
+* Mads Erlend Bøe Lysø
 * Andreas Westre
 * Kristian Novsett Borgen
 
