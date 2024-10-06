@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            NTNU LRA
-tagline:          'Legged Robots for the Arctic and Beyond Lab'
-description:      "Legged Robots for the Arctic and beyond lab"
+tagline:          'Legged Robots for the Arctic & Beyond Lab'
+description:      "Legged Robots for the Arctic & beyond lab"
 url:              https://ntnu-lra.github.io
 baseurl:          /
 
