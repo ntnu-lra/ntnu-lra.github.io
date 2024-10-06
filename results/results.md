@@ -4,7 +4,7 @@ title: "Results"
 permalink: /results
 ---
 
-Our results are cool.
+Below we present results of our team. 
 
 
 <div style="display: flex; justify-content: space-between;">
