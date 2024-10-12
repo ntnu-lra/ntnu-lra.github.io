@@ -27,6 +27,7 @@ Our team involves the following members:
 * Mads Erlend Bøe Lysø
 * Andreas Westre
 * Kristian Novsett Borgen
+* Aleksander Vangen
 
 
 ## Visitors
