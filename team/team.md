@@ -22,12 +22,13 @@ Our team involves the following members:
 * Daniel Rosmæl Skauge
 
 #### Previous students
-* Tarek El-Agroudi
-* Finn Gross Mauer
-* Mads Erlend Bøe Lysø
-* Andreas Westre
-* Kristian Novsett Borgen
-* Aleksander Vangen
+* Tarek El-Agroudi [Thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3152316?show=full)
+* Finn Gross Mauer [Thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3152316?show=full)
+* Mads Erlend Bøe Lysø [Thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3013362)
+* Andreas Westre [Thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3094655)
+* Kristian Novsett Borgen [Thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3096230)
+* Aleksander Vangen [Thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3093211)
+* Gitle Seim Brekke [Thesis](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/3024782)
 
 
 ## Visitors
