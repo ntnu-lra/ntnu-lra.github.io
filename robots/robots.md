@@ -4,7 +4,7 @@ title: "Robots"
 permalink: /robots
 ---
 
-The robots designed by NTNU LRA and previously at the [Autonomous Robots Lab](https://www.autonomousrobotslab.com/)
+The robots designed by NTNU LRA with the collaboration of the [Autonomous Robots Lab](https://www.autonomousrobotslab.com/)
 
 <div style="display: flex; justify-content: space-between;"> 
   <!-- Second Column (Image #1: Olympus) -->
