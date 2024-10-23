@@ -25,7 +25,7 @@ Furthermore, we have access to an ANYmal D robot that further marsupially integr
 <div style="display: flex; justify-content: space-between;"> 
   <!-- Second Column (Image #1: Olympus) -->
   <div style="width: 48%;">
-    <img src="{{ site.baseurl }}/assets/images/anymal-marsupial.png" alt="Olympus Robot" style="width: 100%;">
+    <img src="{{ site.baseurl }}/assets/images/anymal-marsupial.jpg" alt="ANYmal D with an RMF-Owl" style="width: 100%;">
     <p>ANYmal D with an RMF-Owl </p>
   </div>
 
